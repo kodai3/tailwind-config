@@ -1,0 +1,23 @@
+{
+  "name": "@kodai3/tailwind-config",
+  "version": "1.0.0",
+  "description": "tailwind configuration for kodai3",
+  "repository": "https://github.com/kodai3/tailwind-config",
+  "bugs": {
+    "url": "https://github.com/kodai3/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/kodai3/tailwind-config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "author": "kodai3 <k3dai.su3@gmail.com>",
+  "keywords": [
+    "tailwind",
+    "config"
+  ],
+  "devDependencies": {
+    "tailwind-config-viewer": "^1.5.0"
+  }
+}
