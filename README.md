@@ -1,4 +1,5 @@
 # Usage
+you can see the configuration [here](https://kodai3.github.io/tailwind-config/)
 
 ```
 npm install @kodai3/tailwind-config
