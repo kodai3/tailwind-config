@@ -2,7 +2,7 @@
 you can see the configuration [here](https://kodai3.github.io/tailwind-config/)
 
 ```
-npm install @kodai3/tailwind-config
+yarn add -D @kodai3/tailwind-config
 ```
 
 If you want to extend the existing config:
