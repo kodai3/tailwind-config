@@ -17,7 +17,11 @@
     "tailwind",
     "config"
   ],
+  "scripts": {
+    "tailwind-config-viewer": "tailwind-config-viewer"
+  },
   "devDependencies": {
-    "tailwind-config-viewer": "^1.5.0"
+    "tailwind-config-viewer": "^1.5.0",
+    "tailwindcss": "^2.0.3"
   }
 }
